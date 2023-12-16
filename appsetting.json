@@ -1,0 +1,9 @@
+{
+    "ApiSettings": {
+      "BaseUrl": "109.230.73.113/baggage/json?token=094936d6ebc4fec0875ad152910cb103"
+    },
+    "ConnectionStrings": {
+      "DefaultConnection": "Driver={Microsoft Access Driver (*.mdb)};Dbq=C:\\Database\\AirportBaggage.mdb;"
+    }
+  }
+  

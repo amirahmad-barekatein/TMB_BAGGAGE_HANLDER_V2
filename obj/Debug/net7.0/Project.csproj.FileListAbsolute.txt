@@ -1,0 +1,5 @@
+/Users/AmirahmadBarekatin/Desktop/TMB_New_Project/Project/obj/Debug/net7.0/Project.csproj.AssemblyReference.cache
+/Users/AmirahmadBarekatin/Desktop/TMB_New_Project/Project/obj/Debug/net7.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AmirahmadBarekatin/Desktop/TMB_New_Project/Project/obj/Debug/net7.0/Project.AssemblyInfoInputs.cache
+/Users/AmirahmadBarekatin/Desktop/TMB_New_Project/Project/obj/Debug/net7.0/Project.AssemblyInfo.cs
+/Users/AmirahmadBarekatin/Desktop/TMB_New_Project/Project/obj/Debug/net7.0/Project.csproj.CoreCompileInputs.cache
